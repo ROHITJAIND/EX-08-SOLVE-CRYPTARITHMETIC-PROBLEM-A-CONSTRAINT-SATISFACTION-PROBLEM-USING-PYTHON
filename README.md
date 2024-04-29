@@ -1,6 +1,6 @@
 # EX-08 Solve Cryptarithmetic Problem a CSP(Constraint Satisfaction Problem) using Python.
 ### Aim:
-To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE :**
+To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python. &emsp;&emsp;**DATE :27.03.2024**
 ### Procedure:
 Input and Output
 <br>Input:
